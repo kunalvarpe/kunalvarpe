@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @kunalvarpe
+## 👋 Hi, There 
+
+I’m @kunalvarpe, Software Developer, Pationate coder.
+
+
 - 👀 I’m interested in cooding in Java. I love java.
 - 🌱 I’m currently learning Spring Cloud and Microservices
-- 💞️ I’m looking to collaborate on anything related to Java
-- 📫 How to reach me twitter/TheKunalVarpe, linkedin/kunalvarpe
+- 💞️ I’m looking to collaborate on anything related to Java, Spring.
 
-<!---
-kunalvarpe/kunalvarpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect with me.
+- Website: https://techiekv.blogspot.com/
+- Twitter: https://twitter.com/TheKunalVarpe
+- LinkedIn: https://www.linkedin.com/in/kunalvarpe
+
