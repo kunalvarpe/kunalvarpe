@@ -26,7 +26,6 @@
 
 ## Connect with me 📫
 
-<<<<<<< HEAD
 [<img src="icons/github.png" alt='github' height='40'>](https://github.com/kunalvarpe) &nbsp;
 [<img src="icons/twitter.png" alt='linkedin' height='40'>](https://twitter.com/TheKunalVarpe) &nbsp;
 [<img src="icons/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/kunalvarpe) &nbsp;
