@@ -26,11 +26,11 @@
 
 ## Connect with me 📫
 
-[<img src="icons/github.png" alt='github' height='40'>](https://github.com/kunalvarpe) &nbsp;
-[<img src="icons/twitter.png" alt='linkedin' height='40'>](https://twitter.com/TheKunalVarpe) &nbsp;
-[<img src="icons/linkedin.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/kunalvarpe) &nbsp;
-[<img src="icons/website.png" alt='twitter' height='40'>](https://techiekv.blogspot.com/)
-[<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height='40'>](https://stackoverflow.com/users/3649352/kunalvarpe)
+[<img src="icons/github.png" alt='github' height='35'>](https://github.com/kunalvarpe) &nbsp;
+[<img src="icons/twitter.png" alt='linkedin' height='35'>](https://twitter.com/TheKunalVarpe) &nbsp;
+[<img src="icons/linkedin.png" alt='linkedin' height='35'>](https://www.linkedin.com/in/kunalvarpe) &nbsp;
+[<img src="icons/website.png" alt='twitter' height='35'>](https://techiekv.blogspot.com/)
+[<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height='35'>](https://stackoverflow.com/users/3649352/kunalvarpe)
 
 ## Stats
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalvarpe&show_icons=true&theme=transparent)
