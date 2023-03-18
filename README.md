@@ -1,9 +1,9 @@
-## Hi there 👋, my name is Kunal
+# Hi there 👋, My name is Kunal
 
-- I am Java, Sprign Developer, Passionate coder. 
-- 👀 I’m interested in coding in Java. I love java. 
-- 🌱 I’m currently learning Spring Cloud and Microservices.
-- 💞️ I’m looking to collaborate on anything related to Java, Spring.
+- I am Developer, Passionate coder. 
+- 👀 I’m interested in coding in `Java`. In 💗 with `Java` and `Spring Framework`  
+- 🌱 I’m currently learning `Spring Cloud` and `Microservices`.
+- 💞️ I’m looking to collaborate on anything related to `Java`, `Spring`.
 
 ## Language and Skills
 <p>
