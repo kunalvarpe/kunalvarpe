@@ -1,8 +1,8 @@
 # Hi there 👋, My name is Kunal
 
-- I am Developer, Passionate coder. 
-- 👀 I’m interested in coding in `Java`. In 💗 with `Java` and `Spring Framework`  
-- 🌱 I’m currently learning `Spring Cloud` and `Microservices`.
+  I am Developer, Passionate coder. Experienced Java Developer with expertise in Spring Framework and AWS Cloud Solutions. Passionate about building scalable and resilient applications. Strong believer in the power of open-source and collaboration. Let's innovate together!
+- 👀 In 💗 with `Java` and `Spring Framework`  
+- 🌱 I’m currently learning `Spring Integrations` and `Microservices`.
 - 💞️ I’m looking to collaborate on anything related to `Java`, `Spring`.
 
 ## Language and Skills
