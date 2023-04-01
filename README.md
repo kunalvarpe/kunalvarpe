@@ -1,5 +1,5 @@
 # Hi there 👋, My name is Kunal
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kunalvarpe.repoName) [![GitHub Followers](https://img.shields.io/github/followers/kunalvarpe.svg?style=scoial&label=Follow)](https://github.com/kunalvarpe?tab=followers) <br>
   I am Developer, Passionate coder. Experienced Java Developer with expertise in Spring Framework and AWS Cloud Solutions. Passionate about building scalable and resilient applications. Strong believer in the power of open-source and collaboration. Let's innovate together!
 - 👀 In 💗 with `Java` and `Spring Framework`  
 - 🌱 I’m currently learning `Spring Integrations` and `Microservices`.
@@ -25,7 +25,6 @@
 </p>
 
 ## Connect with me 📫
-
 [<img src="icons/github.png" alt='github' height='35'>](https://github.com/kunalvarpe) &nbsp;
 [<img src="icons/twitter.png" alt='linkedin' height='35'>](https://twitter.com/TheKunalVarpe) &nbsp;
 [<img src="icons/linkedin.png" alt='linkedin' height='35'>](https://www.linkedin.com/in/kunalvarpe) &nbsp;
@@ -33,4 +32,4 @@
 [<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height='35'>](https://stackoverflow.com/users/3649352/kunalvarpe)
 
 ## Stats
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalvarpe&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalvarpe&show_icons=true&theme=dracula&gradient)
