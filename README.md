@@ -32,4 +32,4 @@
 [<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height='35'>](https://stackoverflow.com/users/3649352/kunalvarpe)
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalvarpe&show_icons=true&theme=dracula&gradient)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalvarpe&show_icons=true)
