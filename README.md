@@ -1,35 +1,46 @@
-# Hi there 👋, My name is Kunal
+# Hi there 👋, I'm [Kunal Varpe](https://techiekv.blogspot.com/)
+
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kunalvarpe.repoName) [![GitHub Followers](https://img.shields.io/github/followers/kunalvarpe.svg?style=scoial&label=Follow)](https://github.com/kunalvarpe?tab=followers) <br>
-  I am Developer, Passionate coder. Experienced Java Developer with expertise in Spring Framework and AWS Cloud Solutions. Passionate about building scalable and resilient applications. Strong believer in the power of open-source and collaboration. Let's innovate together!
-- 👀 In 💗 with `Java` and `Spring Framework`  
-- 🌱 I’m currently learning `Spring Integrations` and `Microservices`.
-- 💞️ I’m looking to collaborate on anything related to `Java`, `Spring`.
 
-## Language and Skills
-<p>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> 
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="35" height="35"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="35" height="35"/> </a> 
-<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="35" height="35"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="35" height="35"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a>  
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="35" height="35"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="35" height="35"/> </a> 
-</p>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/kunalvarpe?s=200&v=4" alt="Profile Avatar" width="150" height="150"/>
+  <h3>Java Developer</h3>
+  <p align="center">
+I am Developer, Passionate coder. Experienced Java Developer with expertise in Spring Framework and AWS Cloud Solutions. Passionate about building scalable and resilient applications. Strong believer in the power of open-source and collaboration. Let's innovate together!
+  </p>
+  <ul>
+    <li>👀 In 💗 with Java and Spring Framework</li>
+    <li> 🌱 I’m currently learning `Spring Integrations` and Microservices.</li>
+    <li>💞️ I’m looking to collaborate on anything related to Java, Spring.</li>
+  </ul>
+  <br>
+  <p align="center">
+    <a href="https://techiekv.blogspot.com/"><img src="https://img.shields.io/badge/website-techiekv.com-blue?style=for-the-badge"></a>
+    <a href="https://linkedin.com/in/kunalvarpe"><img src="https://img.shields.io/badge/linkedin-kunalvarpe-blue?style=for-the-badge&logo=linkedin"></a>
+    <a href="https://twitter.com/TheKunalVarpe"><img src="https://img.shields.io/badge/twitter-TheKunalVarpe-blue?style=for-the-badge&logo=twitter"></a>
+    <a href="https://stackoverflow.com/users//3649352/kunalvarpe"><img src="https://img.shields.io/badge/stackoverflow-kunalvarpe-orange?style=for-the-badge&logo=stackoverflow"></a>
+  </p>
+</div>
 
-## Connect with me 📫
-[<img src="icons/github.png" alt='github' height='35'>](https://github.com/kunalvarpe) &nbsp;
-[<img src="icons/twitter.png" alt='linkedin' height='35'>](https://twitter.com/TheKunalVarpe) &nbsp;
-[<img src="icons/linkedin.png" alt='linkedin' height='35'>](https://www.linkedin.com/in/kunalvarpe) &nbsp;
-[<img src="icons/website.png" alt='twitter' height='35'>](https://techiekv.blogspot.com/)
-[<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height='35'>](https://stackoverflow.com/users/3649352/kunalvarpe)
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring-boot&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalvarpe&show_icons=true)
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/kunalvarpe/kunalvarpe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalvarpe&hide=html,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>
+<a href="https://github.com/kunavarpe/kunalvarpe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalvarpe&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your Name's GitHub Stats" />
+</a>
